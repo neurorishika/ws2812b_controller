@@ -1,1 +1,4 @@
-# ws2812b_controller
+# General Purpose Web Controller for WS2812B LED Panels
+Author: Rishika Mohanta
+
+Copyright© 2024. All Rights Reserved.
